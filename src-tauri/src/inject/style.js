@@ -92,6 +92,11 @@ window.addEventListener('DOMContentLoaded', _event => {
       top: 164px !important;
     }
 
+    .readerContent .app_content {
+    background-color: #282C33;
+    transition: background-color .2s ease-in-out;
+    }
+
     #Wrapper{
       background-color: #F8F8F8 !important;
       background-image:none !important;
